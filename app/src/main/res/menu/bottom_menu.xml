@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/userList"
+
+        android:icon="@drawable/baseline_cruelty_free_24"
+        android:title="유저 리스트"
+        />
+    <item android:id="@+id/chatroomList"
+
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="채팅 리스트"
+        />
+    <item android:id="@+id/myList"
+
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="마이페이지"
+        />
+</menu>
